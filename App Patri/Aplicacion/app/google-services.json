@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755952327174",
+    "project_id": "cityjungle-5e9a3",
+    "storage_bucket": "cityjungle-5e9a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755952327174:android:c6cd844d8415f0480f0187",
+        "android_client_info": {
+          "package_name": "com.example.cityjungle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755952327174-mbk5chpc63bknk1pcelmaif183eesst9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbRIeL2oHL7pXn447EUOF0MqDC3caOQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755952327174-mbk5chpc63bknk1pcelmaif183eesst9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
